@@ -1,4 +1,4 @@
-angular-spinkit
+angular-spinkit2.0
 ===============
 
 SpinKit (https://github.com/tobiasahlin/SpinKit) spinners for AngularJS
